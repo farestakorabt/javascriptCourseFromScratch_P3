@@ -1,0 +1,21 @@
+body {
+  margin: 0 auto;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family:monospace;
+}
+
+div {
+  display: flex;
+  font-size: 5vw;
+}
+
+h3 {
+  margin-left: 3vw;
+}
+
+span {
+  color: rgb(204, 9, 194);
+}
