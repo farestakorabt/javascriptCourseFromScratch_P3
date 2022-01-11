@@ -1,0 +1,8 @@
+* {
+  font-family: "Trebuchet MS";
+  text-align: center;
+}
+.user-card {
+  border: 2px solid tomato;
+  margin-top: 10px;
+}
